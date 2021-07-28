@@ -13,7 +13,7 @@ New tools will be added as needed.
 
 Clone this git repository and cd to it, then build the image
 
-`git clone && cd alpinegns3`
+`git clone https://gitlab.com/xradiation/alpinegns3 && cd alpinegns3`
 
 `docker build -t "alpinegns3:latest" .`
 

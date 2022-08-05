@@ -5,6 +5,7 @@ This is a `Dockerfile` that allows you to build a Alpine Linux docker image that
 - bash
 - ssh
 - telnet
+- dhclient
 
 New tools will be added as needed.
 
